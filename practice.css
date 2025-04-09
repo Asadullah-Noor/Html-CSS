@@ -1,0 +1,70 @@
+div{
+    width: auto;
+    height: 60px;
+    background-color: black;
+    border: 2px solid rgb(88, 10, 10);
+
+}
+a{
+    color:rgb(255, 147, 15);
+    text-decoration: none;
+ 
+}
+#ac{
+    color: white;
+    margin-left: 80px;
+}
+#my{
+    color: white;
+    margin-left: 80px;
+}
+#con{
+    color: white ;
+    margin-left: 80px;
+}
+input{
+    margin-left: 470px;
+}
+button{
+    background-color: rgb(255, 147, 15);
+    color: white;
+}
+#red{
+    height: 100px;
+    width: 100px;
+    border-style :2px  solid  rgba(0, 0, 255,0.5) ;
+   background-color: rgba(255, 0, 0,0.5);
+    margin: 25px;
+    display: inline-block;
+  
+}
+#green{
+    height: 100px;
+    width: 100px;
+    background-color:rgba(0,  255,0,0.5);
+    border: 2px solid  yellow;
+    margin: 25px;
+    display: inline-block;
+}
+    
+#black{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 0,  255,0.5);
+    border: 2pxs solid rgba(0, 0,  255,0.5);
+    margin: 25px;
+    display: inline-block;
+}
+
+main{
+    height: 480px;
+}
+#footer{
+    height: 40px;
+    width: 1200px;
+    background-color: black;
+}
+p{
+    color: white;
+    text-align: center;
+} 
